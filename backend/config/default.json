@@ -1,0 +1,4 @@
+{
+    "database":"mongodb+srv://ahmed:PbT1yMsLByza8xSl@cluster0.2x04p.mongodb.net/auth_f1?retryWrites=true&w=majority",
+    "secret":"123456"
+}
